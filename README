@@ -7,3 +7,4 @@ mash z for the worst lottery you've ever played in your life
 
 TODO: 
 -interface to design rules better
+-pad array with 1 outer layer to remove boundary checking (modest speedup)
